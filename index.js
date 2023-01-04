@@ -1,4 +1,6 @@
 function fun1(){
+console.log('function 1 is going to be invoked');
+
 }
 
 function fun2() {
