@@ -15,3 +15,7 @@ function fun2() {
 function Fun3() {
   console.log("function 3");
 }
+
+function Fun4() {
+  console.log("function 3");
+}
