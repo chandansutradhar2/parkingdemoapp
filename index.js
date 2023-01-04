@@ -1,6 +1,9 @@
 function fun1() {
   console.log("function 1 is to be invoked");
   console.log("function 1 invoked");
+  setTimeout(() => {
+    console.log("function 1 invoked");
+  }, 2000);
 }
 
 function fun2() {
