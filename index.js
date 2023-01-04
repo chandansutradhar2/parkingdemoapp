@@ -12,3 +12,6 @@ function fun2() {
 	
 }
 
+function Fun3(){
+console.log("function 3");
+}
